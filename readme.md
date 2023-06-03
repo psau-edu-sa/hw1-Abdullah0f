@@ -19,3 +19,8 @@ This search was made by:
 - **Abdullah BinTamim** - [Abdullah0f](https://github.com/Abdullah0f/)
 - **Ryan Alsamari**
 - **Naif Aldawsari**
+
+This project is supervised by: D.Mohammed Assiri, Prince Sattam Bin Abdulaziz University, 2023.
+
+For a comprehensive overview of the analysis, please refer to the attached project document.
+
